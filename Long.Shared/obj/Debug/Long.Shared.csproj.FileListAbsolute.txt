@@ -1,0 +1,11 @@
+D:\LongNH64\Visual Studio\Winform\Long.Shared\bin\Debug\Long.Shared.dll
+D:\LongNH64\Visual Studio\Winform\Long.Shared\bin\Debug\Long.Shared.pdb
+D:\LongNH64\Visual Studio\Winform\Long.Shared\bin\Debug\SharpAvi.dll
+D:\LongNH64\Visual Studio\Winform\Long.Shared\bin\Debug\SharpAvi.xml
+D:\LongNH64\Visual Studio\Winform\Long.Shared\obj\Debug\Long.Shared.csprojAssemblyReference.cache
+D:\LongNH64\Visual Studio\Winform\Long.Shared\obj\Debug\Long.Shared.csproj.CoreCompileInputs.cache
+D:\LongNH64\Visual Studio\Winform\Long.Shared\obj\Debug\Long.Shared.csproj.CopyComplete
+D:\LongNH64\Visual Studio\Winform\Long.Shared\obj\Debug\Long.Shared.dll
+D:\LongNH64\Visual Studio\Winform\Long.Shared\obj\Debug\Long.Shared.pdb
+D:\LongNH64\Visual Studio\Winform\bin\Long.Shared.dll
+D:\LongNH64\Visual Studio\Winform\bin\Long.Shared.pdb

@@ -1,0 +1,12 @@
+D:\LongNH64\Visual Studio\Winform\bin\RecordingScreen.exe.config
+D:\LongNH64\Visual Studio\Winform\bin\RecordingScreen.exe
+D:\LongNH64\Visual Studio\Winform\bin\RecordingScreen.pdb
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.csprojAssemblyReference.cache
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.Properties.Resources.resources
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.Views.RecordScreen.resources
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.csproj.GenerateResource.cache
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.csproj.CoreCompileInputs.cache
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.csproj.CopyComplete
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.exe
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.pdb
+D:\LongNH64\Visual Studio\Winform\RecordingScreen\obj\Debug\RecordingScreen.Views.ConfigurationRecord.resources
